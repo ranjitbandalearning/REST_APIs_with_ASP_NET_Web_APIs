@@ -1,0 +1,89 @@
+[
+  {
+    "id": "5b3621c0-7b12-4e80-9c8b-3398cba7ee05",
+    "firstName": "Seabury",
+    "lastName": "Toxic Reyson",
+    "dateOfBirth": "1690-11-23T00:00:00+05:30",
+    "mainCategory": "Maps",
+    "courses": [
+    ]
+  },
+  {
+    "id": "2ee49fe3-edf2-4f91-8409-3eb25ce6ca51",
+    "firstName": "Atherton",
+    "lastName": "Crow Ridley",
+    "dateOfBirth": "1721-10-11T00:00:00+05:30",
+    "mainCategory": "Rum",
+    "courses": [
+    ]
+  },
+  {
+    "id": "2aadd2df-7caf-45ab-9355-7f6332985a87",
+    "firstName": "Rutherford",
+    "lastName": "Fearless Cloven",
+    "dateOfBirth": "1723-04-05T00:00:00+05:30",
+    "mainCategory": "General debauchery",
+    "courses": [
+    ]
+  },
+  {
+    "id": "2902b665-1190-4c70-9915-b9c2d7680450",
+    "firstName": "Eli",
+    "lastName": "Ivory Bones Sweet",
+    "dateOfBirth": "1701-12-16T00:00:00+05:30",
+    "mainCategory": "Singing",
+    "courses": [
+      {
+        "id": "40ff5488-fdab-45b5-bc3a-14302d59869a",
+        "title": "Singalong Pirate Hits",
+        "description": "In this course you'll learn how to sing all-time favourite pirate songs without sounding like you actually know the words or how to hold a note.",
+        "authorId": "2902b665-1190-4c70-9915-b9c2d7680450"
+      }
+    ]
+  },
+  {
+    "id": "da2fd609-d754-4feb-8acd-c4f9ff13ba96",
+    "firstName": "Nancy",
+    "lastName": "Swashbuckler Rye",
+    "dateOfBirth": "1668-05-21T00:00:00+05:30",
+    "mainCategory": "Rum",
+    "courses": [
+      {
+        "id": "d173e20d-159e-4127-9ce9-b0ac2564ad97",
+        "title": "Avoiding Brawls While Drinking as Much Rum as You Desire",
+        "description": "Every good pirate loves rum, but it also has a tendency to get you into trouble.  In this course you'll learn how to avoid that.  This new exclusive edition includes an additional chapter on how to run fast without falling while drunk.",
+        "authorId": "da2fd609-d754-4feb-8acd-c4f9ff13ba96"
+      }
+    ]
+  },
+  { 
+    "id": "102b566b-ba1f-404c-b2df-e2cde39ade09",
+    "firstName": "Arnold",
+    "lastName": "The Unseen Stafford",
+    "dateOfBirth": "1702-03-06T00:00:00+05:30",
+    "mainCategory": "Singing",
+    "courses": [
+    ]
+  },
+  {
+    "id": "d28888e9-2ba9-473a-a40f-e38cb54f9b35",
+    "firstName": "Berry",
+    "lastName": "Griffin Beak Eldritch",
+    "dateOfBirth": "1650-07-23T00:00:00+05:30",
+    "mainCategory": "Ships",
+    "courses": [
+      {
+        "id": "5b1c2b4d-48c7-402a-80c3-cc796ad49c6b",
+        "title": "Commandeering a Ship Without Getting Caught",
+        "description": "Commandeering a ship in rough waters isn't easy.  Commandeering it without getting caught is even harder.  In this course you'll learn how to sail away and avoid those pesky musketeers.",
+        "authorId": "d28888e9-2ba9-473a-a40f-e38cb54f9b35"
+      },
+      {
+        "id": "d8663e5e-7494-4f81-8739-6e0de1bea7ee",
+        "title": "Overthrowing Mutiny",
+        "description": "In this course, the author provides tips to avoid, or, if needed, overthrow pirate mutiny.",
+        "authorId": "d28888e9-2ba9-473a-a40f-e38cb54f9b35"
+      }
+    ]
+  }
+]
